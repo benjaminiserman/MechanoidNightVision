@@ -24,7 +24,5 @@
 
 			new Harmony($"winggar.{Identifier}").PatchAll();
 		}
-
-		public override string SettingsCategory() => Identifier.Translate();
 	}
 }
