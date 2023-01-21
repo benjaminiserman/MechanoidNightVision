@@ -3,7 +3,6 @@
 	using System.IO;
 	using System.Reflection;
 	using HarmonyLib;
-	using RimWorld;
 	using Verse;
 
 	internal class MechanoidNightVision : Mod
